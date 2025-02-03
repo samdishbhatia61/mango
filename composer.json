@@ -1,0 +1,17 @@
+{
+    "require": {
+      "php": ">=8.2",
+      "ext-mbstring": "*",
+      "ext-curl": "*",
+      "ext-xml": "*",
+      "ext-zip": "*"
+    },
+    "config": {
+      "platform": {
+        "php": "8.2"
+      }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+  }
+  
